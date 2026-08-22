@@ -1,28 +1,43 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Kiran+Rai;Full+Stack+Developer;Next.js+%26+React+Enthusiast" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>A passionate Full Stack Developer from Nepal 🇳🇵</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=git0map0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Animated Typing Banner -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Kiran+Rai;Full+Stack+Developer+%F0%9F%92%BB;Next.js+%26+React+Architect;Building+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
   </a>
-</p>
+
+  <p>
+    <b>Crafting modern, high-performance web experiences with precision and speed.</b>
+  </p>
+
+  <!-- Quick Social Badges -->
+  <a href="mailto:git0map0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-git0map0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/git0map0">
+    <img src="https://img.shields.io/badge/GitHub-git0map0-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+
+<br />
 
 ---
 
-### 🚀 About Me
+### ⚡ Quick Overview
 
-```javascript
-const kiran = {
-    code: ["TypeScript", "JavaScript", "Python", "Java"],
-    frameworks: ["Next.js", "React", "Node.js", "Tailwind CSS"],
-    databases: ["PostgreSQL", "MySQL", "SQLite"],
-    tools: ["AWS Amplify", "Git", "Figma", "Postman"],
-    currentFocus: "Building scalable web applications & mastering Next.js",
-    askMeAbout: ["React", "Next.js", "Web Development"],
-    reachMe: "git0map0@gmail.com"
+```typescript
+type Developer = {
+  name: string;
+  role: string;
+  location: string;
+  coreStack: string[];
+  passionateAbout: string[];
+};
+
+const kiran: Developer = {
+  name: "Kiran Rai",
+  role: "Full Stack Developer",
+  location: "Nepal 🇳🇵",
+  coreStack: ["Next.js", "React", "TypeScript", "Node.js", "Tailwind CSS"],
+  passionateAbout: ["Web Performance", "UI/UX Design", "Scalable Systems"]
 };
