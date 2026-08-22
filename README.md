@@ -45,14 +45,12 @@ const kiran = {
   interests: [
     "Web Development",
     "Software Architecture",
-    "UI/UX",
-    "Cloud Technologies"
+    "UI/UX"
   ],
 
   currentlyLearning: [
     "Advanced Next.js",
     "System Design",
-    "Cloud Architecture"
   ],
 
   funFact: "I enjoy turning ideas into working products 🚀"
