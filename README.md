@@ -157,9 +157,8 @@ Creating clean and intuitive interfaces with:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Git0-Map1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
+<img height="180em" src="./profile/stats.svg" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git0-Map1&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
 
 </div>
 
