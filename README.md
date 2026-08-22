@@ -97,7 +97,7 @@ const kiran = {
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,aws,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
 
 </p>
 
@@ -149,18 +149,7 @@ Creating clean and intuitive interfaces with:
 
 </td>
 
-<td width="50%">
 
-### ☁️ Cloud & Tools
-
-Working with:
-
-* AWS
-* Git & GitHub
-* Postman
-* API integrations
-
-</td>
 </tr>
 </table>
 
