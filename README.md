@@ -87,7 +87,7 @@ const kiran = {
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 </p>
 
