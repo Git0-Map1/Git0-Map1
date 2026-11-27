@@ -31,7 +31,7 @@
 ```typescript
 const kiran = {
   name: "Kiran Rai",
-  username: "Git0-Map1",
+  username: "Kiran Rai",
   location: "Nepal 🇳🇵",
   role: "Full-Stack Developer",
 
